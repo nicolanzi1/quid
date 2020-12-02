@@ -26,9 +26,9 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Unlimited Access',
-  headline: 'Check your online account whenever you want',
+  headline: 'Login to your account at any time',
   description:
-    "With our amazing online service, you don't have to worry ever again about going to the bank.",
+    "With our amazing online services, you don't have to worry ever again about going to the bank.",
   buttonLabel: 'Learn More',
   imgStart: true,
   img: Img2,
