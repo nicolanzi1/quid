@@ -49,7 +49,7 @@ export const homeObjThree = {
   topLine: 'Global Presence',
   headline: 'Your Bank anywhere, everywhere',
   description:
-    'Not only we offer the best online service, but as our customer you will have global support thanks to our international partnerships.',
+    'Not only we offer the best online services, but as our customer you will have global support thanks to our international partnerships.',
   buttonLabel: 'Sign Up',
   imgStart: false,
   img: Img3,
