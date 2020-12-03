@@ -1,6 +1,6 @@
 {
   "name": "quid",
-  "homepage": "https://nicolanzi1.github.io/quid",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
